@@ -43,7 +43,7 @@ int main()
 
 ## Output:
 
-<img width="666" height="272" alt="image" src="https://github.com/user-attachments/assets/5bfa3981-e6da-4f4d-a67a-f30a585ee885" />
+<img width="557" height="213" alt="image" src="https://github.com/user-attachments/assets/a001c7de-d2f0-4483-86f9-8f2c772b14c2" />
 
 
 ## Result:
